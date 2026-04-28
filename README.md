@@ -1,4 +1,4 @@
-# Olá, eu sou Giovane Ferreira 👋
+# Olá, eu sou Giovane Ferreira Paes Ribeiro👋
 
 🎓 Estudante de Engenharia de Software    
 📍 Teresina, PI - Brasil  
@@ -82,5 +82,5 @@ Projeto em Java com foco em Programação Orientada a Objetos.
 
 ## 📫 Contato
 
-- LinkedIn: coloque aqui seu link do LinkedIn
+- LinkedIn: [Giovane Ferreira](https://www.linkedin.com/in/giovane-ferreira-paes-ribeiro-b26a26206/)
 - GitHub: [github.com/Giovanepg](https://github.com/Giovanepg)
