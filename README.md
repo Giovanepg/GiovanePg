@@ -23,8 +23,10 @@ Atualmente venho desenvolvendo projetos acadêmicos utilizando **Java, PostgreSQ
 
 ## 🚀 Tecnologias e ferramentas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,postgres,git,github,vscode" />
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,postgres,git,github,vscode" />
 </p>
 
 ---
